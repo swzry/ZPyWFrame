@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ZPyWFramInsT1", "ZPyWFramInsT1\ZPyWFramInsT1.pyproj", "{C5D12337-30F1-498B-A6BC-EF48FD13207C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DbgTest|Any CPU = DbgTest|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D12337-30F1-498B-A6BC-EF48FD13207C}.DbgTest|Any CPU.ActiveCfg = DbgTest|Any CPU
+		{C5D12337-30F1-498B-A6BC-EF48FD13207C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D12337-30F1-498B-A6BC-EF48FD13207C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
